@@ -70,11 +70,11 @@ html, body {
 	height: 100%;
 }
 body {
-	background: #f3eded;
+	background: #181616;
 	font-family: "lora-regular", serif;
 	font-size: 1.7rem;
 	line-height: 3rem;
-	color: #6e6e6e;
+	color: #090707;
 }
 
 /**
@@ -102,7 +102,7 @@ a:hover, a:focus, a:active {
  */
 h1, h2, h3, h4, h5, h6, .h01, .h02, .h03, .h04, .h05, .h06 {
 	font-family: "poppins-semibold", sans-serif;
-	color: #0a0404;
+	color: #121111;
 	font-style: normal;
 	text-rendering: optimizeLegibility;
 	margin-bottom: 2.1rem;
@@ -156,7 +156,7 @@ p.lead {
 	font-family: "lora-regular", serif;
 	font-size: 2rem;
 	line-height: 1.8;
-	color: #888888;
+	color: #151212;
 }
 @media only screen and (max-width:768px) {
 	p.lead {
@@ -1036,7 +1036,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .section-intro h1 {
 	font-family: "poppins-semibold", serif;
 	font-size: 3.6rem;
-	color: #f3efef;
+	color: #0e0d0d;
 	line-height: 1.25;
 	margin-bottom: 1.2rem;
 }
@@ -1095,7 +1095,7 @@ header .row {
 }
 header .top-bar {
 	display: block;
-	background: #edebeb;
+	background: #121111;
 	min-width: 220px;
 	min-height: 66px;
 	position: absolute;
@@ -1119,7 +1119,7 @@ header .logo a {
 	color: transparent;
 	width: 92px;
 	height: 15px;
-	background: url("../images/.png") no-repeat center;
+	background: url("../images/logo.png") no-repeat center;
 	background-size: 92px 15px;
 }
 
@@ -1294,7 +1294,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #intro {
-	background: #151515 url(../images/intro\ bg\ 2.jpg) no-repeat center bottom;
+	background: #151515 url(../images/backrounnd.jpg) no-repeat center bottom;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	background-size: cover;
@@ -1790,7 +1790,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #portfolio {
-	background: #070707;
+	background: #e1dada;
 	padding-top: 12rem;
 	padding-bottom: 12rem;
 }
@@ -2183,7 +2183,7 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #stats {
-	background: #1e1ebe;
+	background: #7676e0;
 	padding-top: 7.2rem;
 	padding-bottom: 6rem;
 	text-align: center;
@@ -2250,18 +2250,18 @@ header .logo a {
  * ------------------------------------------------------------------- 
  */
 #contact {
-	background: #111111;
+	background: #f9f5f5;
 	padding-top: 12rem;
 	padding-bottom: 7.2rem;
 }
 #contact .section-intro h1 {
-	color: rgb(248, 239, 239);
+	color: rgb(14, 13, 13);
 }
 #contact .section-intro h5 {
 	color: #0707d6;
 }
 #contact .section-intro p {
-	color: rgba(247, 240, 240, 0.959);
+	color: rgba(9, 8, 8, 0.959);
 }
 
 /* contact form */
@@ -2270,19 +2270,19 @@ header .logo a {
 }
 
 .contact-form ::-webkit-input-placeholder {
-	color: rgba(253, 242, 242, 0.902);
+	color: rgba(21, 19, 19, 0.902);
 }
 .contact-form :-moz-placeholder {
-	color: rgb(253, 250, 250);  /* Firefox 18- */
+	color: rgb(16, 15, 15);  /* Firefox 18- */
 }
 .contact-form ::-moz-placeholder {
-	color: rgba(250, 244, 244, 0.929);  /* Firefox 19+ */
+	color: rgba(14, 13, 13, 0.929);  /* Firefox 19+ */
 }
 .contact-form :-ms-input-placeholder {
-	color: rgba(255, 249, 249, 0.93);
+	color: rgba(4, 3, 3, 0.93);
 }
 .contact-form .placeholder {
-	color: rgba(244, 240, 240, 0.895) !important;
+	color: rgba(14, 14, 14, 0.895) !important;
 }
 
 #contact form {
@@ -2328,7 +2328,7 @@ header .logo a {
 #contact input[type="email"],
 #contact textarea {
 	width: 100%;
-	color: rgba(255, 246, 246, 0.951);
+	color: rgba(10, 10, 10, 0.951);
 	margin-bottom: 0;
 	border: none;
 	border-bottom: 1px solid rgba(14, 13, 13, 0.1);
@@ -2496,7 +2496,7 @@ footer {
 	font-family: "poppins-regular", sans-serif;
 }
 footer a, footer a:visited {
-	color: #FFFFFF;
+	color: #0d0ad6;
 }
 footer a:hover, footer a:focus {
 	color: #0008ff;
